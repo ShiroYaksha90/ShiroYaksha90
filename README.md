@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Welcome, I am Basim Aljazaeri.<br>
 ![coding](https://user-images.githubusercontent.com/30289772/208741012-2b7d9c93-0a2d-4e3d-af2d-e10bf319bbfd.gif)<br>
-🌱 I’m currently learning full stack development<br>👯 I’m looking to collaborate on UI/UX design and full stack development<br>🤔 I’m looking for remote jobs! 🤩<br>💬 Ask me about low-level, functional, and object-oriented programming<br>⚡ Passion: continuous personal growth, Learning new technologies, Mentoring my junior and fellow students, and participating in social activities.<br>
+🌱 I’m a full stack developer<br>👯 I’m always open to collaborate on UI/UX design and full stack development<br>🤔 I’m looking for remote jobs! 🤩<br>💬 Ask me about rails, functional, and object-oriented programming<br>⚡ Passion: continuous personal growth, Learning new technologies, Mentoring my junior and fellow colleagues, and participating in social activities.<br>
 
 
 ## 🌐 Socials:
